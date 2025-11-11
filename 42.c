@@ -4,21 +4,18 @@
 int main()
 {
     int a=5;
-    int b=10;
-    int c=15;
-    int d=20;
 
     a+=2;
     printf("a = %d\n", a);
 
-    b-=3;
-    printf("b = %d\n", b);  
+    a-=3;
+    printf("a = %d\n", a);  
 
-    c*=4;
-    printf("c = %d\n", c);
+    a*=4;
+    printf("a = %d\n", a);
 
-    d/=5;
-    printf("d = %d\n", d);
+    a/=5;
+    printf("a = %d\n", a);
 
     return 0;
 }
