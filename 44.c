@@ -13,8 +13,10 @@ int main()
 
     if(num%2 == 0){
         printf("%d is Even", num);
-    }else{
+    }else if(num%2 != 0){
         printf("%d is Odd", num);
+    }else{
+        printf("Invalid number");
     }
 
     return 0;
