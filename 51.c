@@ -1,4 +1,4 @@
-// C program to find if a letter is small case or capital case
+// C program to check if a letter is small case or capital case
 
 #include <stdio.h>
 int main()
