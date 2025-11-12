@@ -1,4 +1,4 @@
-// Check whether the time is morning or not using if...else statement
+// Check whether the time is morning or not using if-else statement
 
 #include <stdio.h>
 int main()
