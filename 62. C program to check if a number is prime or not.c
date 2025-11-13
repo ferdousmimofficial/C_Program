@@ -1,4 +1,4 @@
-// C program to check if a number is prime
+// C program to check if a number is prime (মৌলিক সংখ্যা)
 
 #include <stdio.h>
 #include <math.h>
