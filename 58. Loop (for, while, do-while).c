@@ -1,4 +1,4 @@
-// Loop: for, while, do-while
+// Loop (for, while, do-while)
 
 #include <stdio.h>
 int main()
