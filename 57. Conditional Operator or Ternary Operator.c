@@ -1,4 +1,4 @@
-// Conditional Operator / Ternary Operator
+// Conditional Operator or Ternary Operator
 
 #include <stdio.h>
 int main()
