@@ -3,12 +3,13 @@
 #include<stdio.h>
 int main()
 {
-    int n, i, sum=0;
+    int n, i=2, sum=0;
     printf("Enter the last number of the series: ");
     scanf("%d",&n);
 
-    for(i=2; i<=n; i=i+2){
-        sum = sum + i;
+    while(i<=n){
+        sum = sum + n;
+        i = i + 2;
     }
     
     printf("2 + 4 + 6 + .... + %d = %d\n",n,sum);
