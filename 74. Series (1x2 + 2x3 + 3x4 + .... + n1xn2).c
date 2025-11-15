@@ -1,4 +1,4 @@
-// Series (1.2 + 2.3 + 3.4 + .... + n1.n2)
+// Series (1x2 + 2x3 + 3x4 + .... + n1xn2)
 
 #include<stdio.h>
 int main()
